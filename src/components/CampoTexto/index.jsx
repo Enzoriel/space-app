@@ -5,7 +5,7 @@ const CampoTextoEstilos = styled.div`
   align-items: center;
   .buscar {
     position: absolute;
-    right: 30px;
+    right: 70px;
     width: 30px;
   }
   input {
@@ -24,11 +24,17 @@ const CampoTextoEstilos = styled.div`
   }
 `;
 
-const CampoTexto = (props) => {
+const CampoTexto = ({ setFiltro }) => {
   return (
     <CampoTextoEstilos>
-      <input type="text" placeholder="¿Qué estás buscando?"></input>
-      <img className="buscar" src="img/search.png" alt="Busqueda" {...props} />
+      <input
+        type="text"
+        placeholder="¿Qué estás buscando?"
+        onChange={(evento) => {
+          setFiltro(evento.target.value);
+        }}
+      ></input>
+      <img className="buscar" src="img/search.png" alt="Busqueda" />
     </CampoTextoEstilos>
   );
 };

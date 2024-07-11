@@ -1,0 +1,72 @@
+[
+  {
+    "titulo": "Montaña nevada",
+    "fuente": "Unsplash",
+    "path": "img/galeria/foto-1.png",
+    "id": "1",
+    "tagId": 1
+  },
+  {
+    "titulo": "Paisaje de playa",
+    "fuente": "Pexels",
+    "path": "img/galeria/foto-2.png",
+    "id": "2",
+    "tagId": 2
+  },
+  {
+    "titulo": "Ciudad futurista",
+    "fuente": "Pixabay",
+    "path": "img/galeria/foto-3.png",
+    "id": "3",
+    "tagId": 3
+  },
+  {
+    "titulo": "Bosque verde",
+    "fuente": "Unsplash",
+    "path": "img/galeria/foto-4.png",
+    "id": "4",
+    "tagId": 4
+  },
+  {
+    "titulo": "Cascada",
+    "fuente": "Pexels",
+    "path": "img/galeria/foto-5.png",
+    "id": "5",
+    "tagId": 5
+  },
+  {
+    "titulo": "Atardecer en la playa",
+    "fuente": "Pixabay",
+    "path": "img/galeria/foto-6.png",
+    "id": "6",
+    "tagId": 6
+  },
+  {
+    "titulo": "Montaña con lago",
+    "fuente": "Unsplash",
+    "path": "img/galeria/foto-7.png",
+    "id": "7",
+    "tagId": 7
+  },
+  {
+    "titulo": "Campo de flores",
+    "fuente": "Pexels",
+    "path": "img/galeria/foto-8.png",
+    "id": "8",
+    "tagId": 8
+  },
+  {
+    "titulo": "Edificio moderno",
+    "fuente": "Pixabay",
+    "path": "img/galeria/foto-9.png",
+    "id": "9",
+    "tagId": 9
+  },
+  {
+    "titulo": "Desierto",
+    "fuente": "Unsplash",
+    "path": "img/galeria/foto-10.png",
+    "id": "10",
+    "tagId": 10
+  }
+]
